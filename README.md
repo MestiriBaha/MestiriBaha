@@ -1,5 +1,7 @@
-### Hi there 👋
+## Am I doing this right?
 
+- 👈 That's me. I'm Baha Mestiri.
+- 💻 I work on [.NET](https://dot.net), [Azure](https://docs.microsoft.com/azure?WT.mc_id=dotnet-0000-shboyer), microservices and open source things at Microsoft
 <!--
 **MestiriBaha/MestiriBaha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
